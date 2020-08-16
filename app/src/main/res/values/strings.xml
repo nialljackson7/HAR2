@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HAR</string>
+    <string name="yvalue">TextView</string>
+    <string name="xvalue">TextView</string>
+    <string name="zvalue">TextView</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="gyroscope">gyroscope</string>
+    <string name="xgyrotextview">TextView</string>
+    <string name="button">TextView</string>
+    <string name="save">TextView</string>
+    <string name="ygyro">TextView</string>
+    <string name="zgyro">TextView</string>
+    <string name="x_acc">x acc</string>
+    <string name="y_acc">y acc</string>
+    <string name="z_acc">z acc</string>
+    <string name="x_gyr">x gyr</string>
+    <string name="y_gyr">y gyr</string>
+    <string name="z_gyr">z gyr</string>
+    <string name="textview">TEXTview</string>
+    <string name="textview2">TEXTVIEW</string>
+</resources>

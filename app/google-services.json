@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "282983674236",
+    "firebase_url": "https://harmachinelearning.firebaseio.com",
+    "project_id": "harmachinelearning",
+    "storage_bucket": "harmachinelearning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282983674236:android:348bbe869b0a1f3c4c74f9",
+        "android_client_info": {
+          "package_name": "com.example.har"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282983674236-ru59nt3s4nbl6jg1fec2gcq57ttr9url.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuyeM3kouXq8drWYdpCZt7eRrm6rRJElo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282983674236-ru59nt3s4nbl6jg1fec2gcq57ttr9url.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
